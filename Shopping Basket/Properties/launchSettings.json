@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shopping Basket": {
+      "commandName": "Project",
+      "commandLineArgs": "carrots"
+    }
+  }
+}
